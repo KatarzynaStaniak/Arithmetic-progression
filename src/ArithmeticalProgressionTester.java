@@ -1,8 +1,8 @@
 import java.util.List;
 
-public class ArithmethicalPrrogressionTester {
+public class ArithmeticalProgressionTester {
 
-    public static boolean isAritmetical(List<Integer> progression) {
+    public static boolean isArithmetical(List<Integer> progression) {
         if (progression.size() == 0) {
             System.out.println("Progression size is 0. It can't be arithmetical");
             return false;

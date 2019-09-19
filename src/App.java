@@ -6,7 +6,7 @@ public class App {
 
         List<Integer> nonArithmeticalProgression = ProgressionGenerator.generateNonArithmeticalProgression(4);
 
-        System.out.println(ArithmethicalPrrogressionTester.isAritmetical(nonArithmeticalProgression));
+        System.out.println(ArithmeticalProgressionTester.isArithmetical(nonArithmeticalProgression));
 
     }
 }
